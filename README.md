@@ -1,2 +1,2 @@
 # Data-Input
-Huge Scale of Data Input using CodeIgniter and Angular JS
+Huge Scale of Data Input and Analysis for Lottery using CodeIgniter and Angular JS
